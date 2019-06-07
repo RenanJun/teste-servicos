@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="24062" started-at="2019-06-07T15:19:25Z" finished-at="2019-06-07T15:19:49Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="24062" started-at="2019-06-07T15:19:25Z" finished-at="2019-06-07T15:19:49Z">
+      <class name="org.br.curso.tests.ApiTests">
+        <test-method status="PASS" signature="setup(java.lang.reflect.Method, org.testng.ITestContext)[pri:0, instance:org.br.curso.tests.ApiTests@6c67e137]" name="setup" is-config="true" duration-ms="1887" started-at="2019-06-07T15:19:25Z" finished-at="2019-06-07T15:19:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void org.br.curso.tests.ApiTests.testeCriacaoUsuario()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@5950054d]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testeCriacaoUsuario()[pri:3, instance:org.br.curso.tests.ApiTests@6c67e137]" name="testeCriacaoUsuario" duration-ms="21269" started-at="2019-06-07T15:19:28Z" finished-at="2019-06-07T15:19:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testeCriacaoUsuario -->
+        <test-method status="PASS" signature="teardown(java.lang.reflect.Method, org.testng.ITestContext)[pri:0, instance:org.br.curso.tests.ApiTests@6c67e137]" name="teardown" is-config="true" duration-ms="2" started-at="2019-06-07T15:19:49Z" finished-at="2019-06-07T15:19:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void org.br.curso.tests.ApiTests.testeCriacaoUsuario()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@5950054d]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- org.br.curso.tests.ApiTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

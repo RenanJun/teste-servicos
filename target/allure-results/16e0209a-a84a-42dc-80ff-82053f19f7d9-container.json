@@ -1,0 +1,1 @@
+{"uuid":"16e0209a-a84a-42dc-80ff-82053f19f7d9","name":"org.br.curso.tests.ApiTests.teardown","description":"","start":1559912306958,"stop":1559912306959,"children":["57b5fa72-0d2b-48bf-a89c-1d6a6ac8fa94"],"afters":[{"name":"teardown","status":"passed","stage":"finished","description":"","start":1559912306958,"stop":1559912306959}]}

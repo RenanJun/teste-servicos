@@ -1,0 +1,1 @@
+{"uuid":"dbd8ceb8-4ed8-4b36-b772-b48ea663fd1c","name":"org.br.curso.tests.ApiTests.setup","description":"","start":1559917543458,"stop":1559917544686,"children":["bd2027cf-bdd3-42f3-9307-67df1ba7cda4"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","start":1559917543460,"stop":1559917544682}]}
